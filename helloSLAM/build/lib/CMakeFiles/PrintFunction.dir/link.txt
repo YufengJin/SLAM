@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPrintFunction.a  CMakeFiles/PrintFunction.dir/PrinthelloSLAM.cpp.o
+/usr/bin/ranlib libPrintFunction.a

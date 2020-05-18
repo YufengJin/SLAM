@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danfo/Desktop/SLAM/helloSLAM/lib/PrinthelloSLAM.cpp
+iostream
+-
+PrinthelloSLAM.h
+/home/danfo/Desktop/SLAM/helloSLAM/lib/PrinthelloSLAM.h
+
+/home/danfo/Desktop/SLAM/helloSLAM/lib/PrinthelloSLAM.h
+
